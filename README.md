@@ -161,7 +161,7 @@ It serves as a strong foundation for roles such as **Data Analyst, HR Analyst, o
 
 ## 📷 Dashboard Preview
 
-Workforce Insights Dashboard.png
+[Workforce Insights Dashboard.png](https://github.com/Gaurav31-gw/Workforce-Insights-Dashboard/blob/main/Workforce%20Insights%20Dashboard.png)
 
 
 ---
